@@ -29,7 +29,9 @@
 ---
 
 ## About Me
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=false&vCenter=false&random=false&width=800&lines=System.out.println(%22Hello+World!%22);console.log('Building+Amazing+Apps');SELECT+*+FROM+developers+WHERE+name='Dhruv';" alt="Matrix Code" />
+</p>
 ```javascript
 const dhruv = {
     location: "Bengaluru, India",
