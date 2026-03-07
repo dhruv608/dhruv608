@@ -1,11 +1,11 @@
 <!-- PROFILE HEADER -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Dhruv+Narang" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=1500&pause=1000&color=FFDD00&center=true&vCenter=true&width=800&height=80&lines=I'm+Dhruv+Narang" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
- Full Stack Web Developer | 🎓 CS & Data Analytics @ IIT Patna | 🏗️ System Builder
+  Full Stack Web Developer | 🎓 CS & Data Analytics @ IIT Patna | 🏗️ System Builder
 </h3>
 
 <p align="center">
