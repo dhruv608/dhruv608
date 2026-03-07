@@ -102,9 +102,8 @@ const dhruv = {
 
 ## GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruv608&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFDD00&icon_color=FFDD00&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv608&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFDD00&text_color=C9D1D9"/>
+
+
 </p>
 
 <p align="center">
