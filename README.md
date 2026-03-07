@@ -24,14 +24,12 @@
   <img src="https://komarev.com/ghpvc/?username=dhruv608&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ---
 
 ## About Me
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=false&vCenter=false&random=false&width=800&lines=System.out.println(%22Hello+World!%22);console.log('Building+Amazing+Apps');SELECT+*+FROM+developers+WHERE+name='Dhruv';" alt="Matrix Code" />
-</p>
+
 ```javascript
 const dhruv = {
     location: "Bengaluru, India",
@@ -54,9 +52,10 @@ const dhruv = {
 - Experience building scalable backend systems
 - Passionate about automation and developer productivity
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF00&center=false&vCenter=false&random=false&width=800&lines=System.out.println(%22Hello+World!%22);console.log('Building+Amazing+Apps');SELECT+*+FROM+developers+WHERE+name='Dhruv';" alt="Matrix Code" />
+</p>
 
 ## Tech Stack
 
