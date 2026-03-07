@@ -37,7 +37,7 @@ const dhruv = {
     currentFocus: ["Full Stack Development", "System Design", "DSA"],
     learning: ["Backend Architecture", "Microservices", "Cloud Computing"],
     interests: ["Web Development", "Problem Solving", "Automation"],
-    reachOut: "<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5b3f33292e2d75353a293a353c6d6b631b3c363a323775383436">[email&#160;protected]</a>"
+    reachOut: "dhruvnarang608@gmail.com"
 };
 ```
 
