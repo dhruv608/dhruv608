@@ -165,22 +165,6 @@ const dhruv = {
 
 ---
 
-## Coding Platforms
-
-### LeetCode
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/dhruv608?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats"/>
-</p>
-
-### GeeksforGeeks
-
-<p align="center">
-  <a href="https://auth.geeksforgeeks.org/user/dhruv608">
-    <img src="https://img.shields.io/badge/View_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Profile"/>
-  </a>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Easy-150+-28a745?style=flat-square&labelColor=1a1a1a" alt="Easy"/>
   <img src="https://img.shields.io/badge/Medium-80+-ffc107?style=flat-square&labelColor=1a1a1a" alt="Medium"/>
