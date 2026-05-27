@@ -161,9 +161,6 @@ const dhruv = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv608&theme=github-compact&hide_border=true&bg_color=0D1117&color=C9D1D9&line=FFDD00&point=FFDD00" alt="Contribution Graph"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Easy-150+-28a745?style=flat-square&labelColor=1a1a1a" alt="Easy"/>
