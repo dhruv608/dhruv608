@@ -147,16 +147,6 @@ const dhruv = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-## GitHub Statistics
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv608&theme=dark&hide_border=true&background=0D1117&stroke=FFDD00&ring=FFDD00&fire=FFDD00&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruv608&theme=github-compact&hide_border=true&bg_color=0D1117&color=C9D1D9&line=FFDD00&point=FFDD00" alt="Contribution Graph"/>
 </p>
